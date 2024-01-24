@@ -44,7 +44,4 @@
                     <button>
                         Click here to learn more about the upcoming match
                     </button>
-        </body>
-    </head>
-   
-</html>
+
